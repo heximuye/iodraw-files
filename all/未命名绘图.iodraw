@@ -94,7 +94,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cu3g3R26FImxSn1C_RAP-51" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="cu3g3R26FImxSn1C_RAP-51" value="" style="endArrow=none;html=1;rounded=0;exitX=1.001;exitY=0.137;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="cu3g3R26FImxSn1C_RAP-49">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="273.39743589743466" y="191" as="sourcePoint" />
             <mxPoint x="83.5" y="30" as="targetPoint" />
