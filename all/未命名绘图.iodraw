@@ -22,6 +22,11 @@
         <mxCell id="cu3g3R26FImxSn1C_RAP-30" value="标签映射与去噪" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="261" y="144" width="172" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="cu3g3R26FImxSn1C_RAP-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cu3g3R26FImxSn1C_RAP-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="10" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="cu3g3R26FImxSn1C_RAP-31" value="图像裁剪与缩放至480x640" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="223" y="242" width="247" height="49" as="geometry" />
         </mxCell>
@@ -66,8 +71,14 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cu3g3R26FImxSn1C_RAP-52" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;第一阶段：数据输入与标准化流程&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="610.5" y="3.5" width="30" height="330" as="geometry" />
+        <mxCell id="cu3g3R26FImxSn1C_RAP-51" value="" style="endArrow=none;html=1;rounded=0;exitX=1.001;exitY=0.137;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.001;entryY=0.138;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cu3g3R26FImxSn1C_RAP-49" target="cu3g3R26FImxSn1C_RAP-49">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="273.39743589743466" y="191" as="sourcePoint" />
+            <mxPoint x="83.5" y="30" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cu3g3R26FImxSn1C_RAP-52" value="第一阶段：数据输入与标准化流程" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="171.5" width="350" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cu3g3R26FImxSn1C_RAP-54" value="" style="endArrow=none;html=1;rounded=0;exitX=1.001;exitY=0.21;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.002;entryY=0.21;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cu3g3R26FImxSn1C_RAP-53" target="cu3g3R26FImxSn1C_RAP-53">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
