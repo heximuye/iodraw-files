@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="8bb85LimeClRfI1F7Aa4">
-    <mxGraphModel dx="559" dy="1487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1173" dy="1837" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -81,7 +81,13 @@
           <mxGeometry x="127.75" y="540" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cu3g3R26FImxSn1C_RAP-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cu3g3R26FImxSn1C_RAP-35" target="cu3g3R26FImxSn1C_RAP-37">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="347" y="780" />
+              <mxPoint x="200" y="780" />
+              <mxPoint x="200" y="885" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="cu3g3R26FImxSn1C_RAP-35" value="异构加权集成" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="274.25" y="620" width="145" height="145" as="geometry" />
