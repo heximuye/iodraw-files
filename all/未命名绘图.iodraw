@@ -35,7 +35,7 @@
           <mxGeometry x="261" y="710" width="145" height="145" as="geometry" />
         </mxCell>
         <mxCell id="cu3g3R26FImxSn1C_RAP-36" value="混合损失函数 Focal+Jaccard" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="410.5" y="616.5" width="180" height="60" as="geometry" />
+          <mxGeometry x="406.5" y="616.5" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cu3g3R26FImxSn1C_RAP-37" value="最终分割掩码 mIoU: 83.82%" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="205" y="955" width="257" height="49" as="geometry" />
