@@ -10,9 +10,6 @@
         <mxCell id="cu3g3R26FImxSn1C_RAP-25" value="阶段 IV: 结果输出与多维评估" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="291" y="893" width="327" height="215" as="geometry" />
         </mxCell>
-        <mxCell id="cu3g3R26FImxSn1C_RAP-26" value="阶段 III: 模型集成与联合优化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="124" y="532" width="555" height="311" as="geometry" />
-        </mxCell>
         <mxCell id="cu3g3R26FImxSn1C_RAP-29" value="ApolloScape 原始数据集" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="231" y="45" width="232" height="49" as="geometry" />
         </mxCell>
