@@ -32,6 +32,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="cu3g3R26FImxSn1C_RAP-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cu3g3R26FImxSn1C_RAP-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="700" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="cu3g3R26FImxSn1C_RAP-31" value="图像裁剪与缩放至480x640" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="223" y="242" width="247" height="49" as="geometry" />
         </mxCell>
