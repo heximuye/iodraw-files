@@ -22,6 +22,14 @@
         <mxCell id="cu3g3R26FImxSn1C_RAP-29" value="ApolloScape 原始数据集" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="123.25" y="95" width="184.5" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="cu3g3R26FImxSn1C_RAP-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cu3g3R26FImxSn1C_RAP-30" target="cu3g3R26FImxSn1C_RAP-31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="454" y="150" />
+              <mxPoint x="347" y="150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="cu3g3R26FImxSn1C_RAP-30" value="标签映射与去噪" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="368" y="95" width="172" height="49" as="geometry" />
         </mxCell>
