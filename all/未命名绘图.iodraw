@@ -29,10 +29,10 @@
           <mxGeometry x="376.5" y="430" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cu3g3R26FImxSn1C_RAP-34" value="测试时增强 TTA" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="121" y="616.5" width="160" height="60" as="geometry" />
+          <mxGeometry x="127.5" y="616.5" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cu3g3R26FImxSn1C_RAP-35" value="异构加权集成" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="261" y="710" width="145" height="145" as="geometry" />
+          <mxGeometry x="274" y="710" width="145" height="145" as="geometry" />
         </mxCell>
         <mxCell id="cu3g3R26FImxSn1C_RAP-36" value="混合损失函数 Focal+Jaccard" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="406.5" y="616.5" width="180" height="60" as="geometry" />
