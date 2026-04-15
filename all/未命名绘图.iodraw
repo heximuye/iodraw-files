@@ -26,15 +26,17 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="10" y="420" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="250" y="291" />
+              <mxPoint x="347" y="320" />
+              <mxPoint x="250" y="320" />
               <mxPoint x="250" y="410" />
               <mxPoint x="207" y="410" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cu3g3R26FImxSn1C_RAP-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cu3g3R26FImxSn1C_RAP-31" target="cu3g3R26FImxSn1C_RAP-33">
+        <mxCell id="cu3g3R26FImxSn1C_RAP-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="cu3g3R26FImxSn1C_RAP-33">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="700" y="430" as="targetPoint" />
+            <mxPoint x="347" y="290" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="450" y="410" />
               <mxPoint x="497" y="410" />
