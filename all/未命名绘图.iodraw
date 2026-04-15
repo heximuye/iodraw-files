@@ -62,8 +62,8 @@
         <mxCell id="cu3g3R26FImxSn1C_RAP-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cu3g3R26FImxSn1C_RAP-33" target="cu3g3R26FImxSn1C_RAP-36">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="505" y="470" />
-              <mxPoint x="497" y="470" />
+              <mxPoint x="505" y="450" />
+              <mxPoint x="497" y="450" />
             </Array>
           </mxGeometry>
         </mxCell>
