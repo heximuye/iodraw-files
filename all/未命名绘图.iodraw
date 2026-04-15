@@ -95,12 +95,6 @@
         <mxCell id="cu3g3R26FImxSn1C_RAP-52" value="第一阶段：数据输入与标准化流程" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="171.5" width="350" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cu3g3R26FImxSn1C_RAP-54" value="" style="endArrow=none;html=1;rounded=0;exitX=1.001;exitY=0.21;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.002;entryY=0.21;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cu3g3R26FImxSn1C_RAP-53" target="cu3g3R26FImxSn1C_RAP-53">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="650" y="390" as="sourcePoint" />
-            <mxPoint x="50" y="390" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="cu3g3R26FImxSn1C_RAP-55" value="第二阶段 : 异构双路特征提取框架" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="160" y="360" width="380" height="30" as="geometry" />
         </mxCell>
