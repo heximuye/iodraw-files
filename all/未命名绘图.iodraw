@@ -29,7 +29,7 @@
           <mxGeometry x="376.5" y="430" width="230" height="66" as="geometry" />
         </mxCell>
         <mxCell id="cu3g3R26FImxSn1C_RAP-34" value="测试时增强 TTA" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="121" y="620" width="172" height="60" as="geometry" />
+          <mxGeometry x="121" y="620" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cu3g3R26FImxSn1C_RAP-35" value="异构加权集成" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="261" y="710" width="145" height="145" as="geometry" />
