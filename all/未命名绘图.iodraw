@@ -30,7 +30,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cu3g3R26FImxSn1C_RAP-30" value="标签映射与去噪" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="cu3g3R26FImxSn1C_RAP-30" value="标签映射与去噪" style="whiteSpace=wrap;strokeWidth=2;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="368" y="95" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="cu3g3R26FImxSn1C_RAP-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="cu3g3R26FImxSn1C_RAP-31" target="cu3g3R26FImxSn1C_RAP-32">
