@@ -92,14 +92,11 @@
         <mxCell id="cu3g3R26FImxSn1C_RAP-55" value="第二阶段 : 异构双路特征提取框架" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="160" y="360" width="380" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cu3g3R26FImxSn1C_RAP-57" value="" style="endArrow=none;html=1;rounded=0;exitX=1.001;exitY=0.21;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.002;entryY=0.21;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="652.5" y="610" as="sourcePoint" />
-            <mxPoint x="42.5" y="610" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="cu3g3R26FImxSn1C_RAP-58" value="第三阶段 : 集成策略与模型优化" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="240" y="580" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cu3g3R26FImxSn1C_RAP-63" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="180" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
