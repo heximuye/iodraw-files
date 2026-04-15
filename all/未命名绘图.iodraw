@@ -23,7 +23,7 @@
           <mxGeometry x="223" y="242" width="247" height="49" as="geometry" />
         </mxCell>
         <mxCell id="cu3g3R26FImxSn1C_RAP-32" value="分支A: Unet + EfficientNet-B5 强语义流" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="87.5" y="430" width="239" height="66" as="geometry" />
+          <mxGeometry x="87.5" y="430" width="239" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cu3g3R26FImxSn1C_RAP-33" value="分支B: Unet + ResNet34 强边缘保持流" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="376.5" y="430" width="230" height="66" as="geometry" />
