@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="cu3g3R26FImxSn1C_RAP-56" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="610.5" y="590" width="610" height="340" as="geometry" />
+        </mxCell>
         <mxCell id="cu3g3R26FImxSn1C_RAP-53" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="42" y="350" width="610" height="190" as="geometry" />
         </mxCell>
@@ -77,9 +80,6 @@
         </mxCell>
         <mxCell id="cu3g3R26FImxSn1C_RAP-55" value="第二阶段 : 异构双路特征提取框架" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="160" y="360" width="380" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="cu3g3R26FImxSn1C_RAP-56" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="52" y="360" width="610" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
