@@ -59,6 +59,14 @@
         <mxCell id="cu3g3R26FImxSn1C_RAP-32" value="分支A: Unet + EfficientNet-B5 强语义流" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="95.5" y="340" width="240" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="cu3g3R26FImxSn1C_RAP-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cu3g3R26FImxSn1C_RAP-33" target="cu3g3R26FImxSn1C_RAP-36">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="505" y="470" />
+              <mxPoint x="497" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="cu3g3R26FImxSn1C_RAP-33" value="分支B: Unet + ResNet34 强边缘保持流" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="384.5" y="340" width="240" height="60" as="geometry" />
         </mxCell>
