@@ -13,7 +13,7 @@
         <mxCell id="cu3g3R26FImxSn1C_RAP-26" value="阶段 III: 模型集成与联合优化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="124" y="532" width="555" height="311" as="geometry" />
         </mxCell>
-        <mxCell id="cu3g3R26FImxSn1C_RAP-27" value="阶段 II: 异构主干特征提取" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="cu3g3R26FImxSn1C_RAP-27" value="阶段 II: 异构主干特征提取" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="50" y="366" width="589" height="116" as="geometry" />
         </mxCell>
         <mxCell id="cu3g3R26FImxSn1C_RAP-29" value="ApolloScape 原始数据集" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
