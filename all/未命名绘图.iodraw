@@ -69,10 +69,10 @@
         <mxCell id="cu3g3R26FImxSn1C_RAP-52" value="第一阶段：数据输入与标准化流程" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="170" y="-10" width="350" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cu3g3R26FImxSn1C_RAP-54" value="" style="endArrow=none;html=1;rounded=0;exitX=1.001;exitY=0.137;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="cu3g3R26FImxSn1C_RAP-54" value="" style="endArrow=none;html=1;rounded=0;exitX=1.002;exitY=0.209;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="cu3g3R26FImxSn1C_RAP-53">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="621" y="37" as="sourcePoint" />
-            <mxPoint x="93.5" y="40" as="targetPoint" />
+            <mxPoint x="567.5" y="390" as="sourcePoint" />
+            <mxPoint x="40" y="393" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
