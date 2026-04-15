@@ -7,9 +7,6 @@
         <mxCell id="cu3g3R26FImxSn1C_RAP-49" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="83.5" y="-20" width="527" height="361" as="geometry" />
         </mxCell>
-        <mxCell id="cu3g3R26FImxSn1C_RAP-25" value="阶段 IV: 结果输出与多维评估" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="291" y="893" width="327" height="215" as="geometry" />
-        </mxCell>
         <mxCell id="cu3g3R26FImxSn1C_RAP-29" value="ApolloScape 原始数据集" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="231" y="45" width="232" height="49" as="geometry" />
         </mxCell>
@@ -20,10 +17,10 @@
           <mxGeometry x="223" y="242" width="247" height="49" as="geometry" />
         </mxCell>
         <mxCell id="cu3g3R26FImxSn1C_RAP-32" value="分支A: Unet + EfficientNet-B5 强语义流" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="85" y="391" width="239" height="66" as="geometry" />
+          <mxGeometry x="87.5" y="430" width="239" height="66" as="geometry" />
         </mxCell>
         <mxCell id="cu3g3R26FImxSn1C_RAP-33" value="分支B: Unet + ResNet34 强边缘保持流" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="374" y="391" width="230" height="66" as="geometry" />
+          <mxGeometry x="376.5" y="430" width="230" height="66" as="geometry" />
         </mxCell>
         <mxCell id="cu3g3R26FImxSn1C_RAP-34" value="测试时增强 TTA" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="160" y="617" width="172" height="49" as="geometry" />
@@ -35,10 +32,10 @@
           <mxGeometry x="381" y="608" width="162" height="66" as="geometry" />
         </mxCell>
         <mxCell id="cu3g3R26FImxSn1C_RAP-37" value="最终分割掩码 mIoU: 83.82%" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="326" y="918" width="257" height="49" as="geometry" />
+          <mxGeometry x="205" y="955" width="257" height="49" as="geometry" />
         </mxCell>
         <mxCell id="cu3g3R26FImxSn1C_RAP-38" value="多维度评估 Class-wise mIoU等" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="346" y="1017" width="218" height="66" as="geometry" />
+          <mxGeometry x="225" y="1054" width="218" height="66" as="geometry" />
         </mxCell>
         <mxCell id="cu3g3R26FImxSn1C_RAP-39" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="cu3g3R26FImxSn1C_RAP-29" target="cu3g3R26FImxSn1C_RAP-30">
           <mxGeometry relative="1" as="geometry">
