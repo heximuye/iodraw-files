@@ -31,15 +31,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cu3g3R26FImxSn1C_RAP-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="cu3g3R26FImxSn1C_RAP-31">
+        <mxCell id="cu3g3R26FImxSn1C_RAP-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cu3g3R26FImxSn1C_RAP-31" target="cu3g3R26FImxSn1C_RAP-33">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="770" y="250" as="targetPoint" />
-            <mxPoint x="347" y="290" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="346" y="240" />
-              <mxPoint x="497" y="240" />
-              <mxPoint x="497" y="410" />
-              <mxPoint x="504" y="410" />
+              <mxPoint x="504" y="240" />
             </Array>
           </mxGeometry>
         </mxCell>
