@@ -54,7 +54,13 @@
           <mxGeometry x="223" y="170" width="247" height="49" as="geometry" />
         </mxCell>
         <mxCell id="cu3g3R26FImxSn1C_RAP-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cu3g3R26FImxSn1C_RAP-32" target="cu3g3R26FImxSn1C_RAP-34">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="370" />
+              <mxPoint x="360" y="470" />
+              <mxPoint x="208" y="470" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="cu3g3R26FImxSn1C_RAP-32" value="分支A: Unet + EfficientNet-B5 强语义流" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="95.5" y="340" width="240" height="60" as="geometry" />
