@@ -75,8 +75,8 @@
             <mxPoint x="50" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cu3g3R26FImxSn1C_RAP-55" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="170" y="210" width="60" height="30" as="geometry" />
+        <mxCell id="cu3g3R26FImxSn1C_RAP-55" value="阶段 2: 异构双路特征提取框架" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="315" y="360" width="225" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
