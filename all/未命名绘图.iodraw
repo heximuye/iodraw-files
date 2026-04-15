@@ -31,9 +31,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cu3g3R26FImxSn1C_RAP-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="cu3g3R26FImxSn1C_RAP-31" target="cu3g3R26FImxSn1C_RAP-33">
+        <mxCell id="cu3g3R26FImxSn1C_RAP-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="cu3g3R26FImxSn1C_RAP-31">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="700" y="430" as="targetPoint" />
+            <mxPoint x="770" y="250" as="targetPoint" />
             <mxPoint x="347" y="290" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="346" y="240" />
