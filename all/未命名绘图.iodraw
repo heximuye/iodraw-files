@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="cu3g3R26FImxSn1C_RAP-49" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="103" y="-15" width="527" height="345" as="geometry" />
+          <mxGeometry x="83.5" y="-4" width="527" height="345" as="geometry" />
         </mxCell>
         <mxCell id="cu3g3R26FImxSn1C_RAP-25" value="阶段 IV: 结果输出与多维评估" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="291" y="893" width="327" height="215" as="geometry" />
