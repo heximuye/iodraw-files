@@ -87,8 +87,8 @@
             <mxPoint x="42.5" y="610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cu3g3R26FImxSn1C_RAP-58" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="320" y="570" width="60" height="30" as="geometry" />
+        <mxCell id="cu3g3R26FImxSn1C_RAP-58" value="阶段 3: 集成策略与模型优化" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="570" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
