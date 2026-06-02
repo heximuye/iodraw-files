@@ -23,7 +23,7 @@
           <mxGeometry x="282" y="-100" width="165" height="66" as="geometry" />
         </mxCell>
         <mxCell id="I01jJGOwcOtV0GdoLL0C-7" value="解码块 4 + scSE &#xa; 30x40" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="460" y="-10" width="170" height="66" as="geometry" />
+          <mxGeometry x="447" y="-10" width="170" height="66" as="geometry" />
         </mxCell>
         <mxCell id="I01jJGOwcOtV0GdoLL0C-8" value="解码块 3 + scSE &#xa; 60x80" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="447" y="120" width="170" height="66" as="geometry" />
@@ -103,7 +103,7 @@
         <mxCell id="I01jJGOwcOtV0GdoLL0C-22" value="上采样" style="curved=0;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="I01jJGOwcOtV0GdoLL0C-6" target="I01jJGOwcOtV0GdoLL0C-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="530" y="-67" />
+              <mxPoint x="545" y="-67" />
             </Array>
           </mxGeometry>
         </mxCell>
