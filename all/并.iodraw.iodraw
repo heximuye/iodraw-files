@@ -116,11 +116,9 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LKb5b7d2Qb8h9Qy3AyAO-25" value="上采样" style="curved=0;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.21;entryY=0;rounded=0;" edge="1" parent="1" source="LKb5b7d2Qb8h9Qy3AyAO-9" target="LKb5b7d2Qb8h9Qy3AyAO-10">
+        <mxCell id="LKb5b7d2Qb8h9Qy3AyAO-25" value="上采样" style="curved=0;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LKb5b7d2Qb8h9Qy3AyAO-9" target="LKb5b7d2Qb8h9Qy3AyAO-10">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2656" y="346" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LKb5b7d2Qb8h9Qy3AyAO-26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.51;rounded=0;" edge="1" parent="1" source="LKb5b7d2Qb8h9Qy3AyAO-10" target="LKb5b7d2Qb8h9Qy3AyAO-11">
