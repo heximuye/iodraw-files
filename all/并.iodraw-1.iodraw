@@ -32,7 +32,7 @@
           <mxGeometry x="447" y="250" width="170" height="66" as="geometry" />
         </mxCell>
         <mxCell id="I01jJGOwcOtV0GdoLL0C-10" value="解码块 1 + scSE &#xa; 240x320" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="485" y="377.5" width="170" height="66" as="geometry" />
+          <mxGeometry x="447" y="377.5" width="170" height="66" as="geometry" />
         </mxCell>
         <mxCell id="I01jJGOwcOtV0GdoLL0C-11" value="输出掩码 &#xa; 480x640x11" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="730" y="385" width="111" height="51" as="geometry" />
@@ -47,9 +47,10 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="I01jJGOwcOtV0GdoLL0C-14" value="下采样" style="curved=0;startArrow=none;endArrow=block;exitX=0.5;exitY=0;entryX=0.5;entryY=1;rounded=0;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="I01jJGOwcOtV0GdoLL0C-3" target="I01jJGOwcOtV0GdoLL0C-4">
+        <mxCell id="I01jJGOwcOtV0GdoLL0C-14" value="下采样" style="curved=0;startArrow=none;endArrow=block;exitX=0.5;exitY=0;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="I01jJGOwcOtV0GdoLL0C-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="200" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="I01jJGOwcOtV0GdoLL0C-15" value="下采样" style="curved=0;startArrow=none;endArrow=block;exitX=0.5;exitY=0;entryX=0.5;entryY=1;rounded=0;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="I01jJGOwcOtV0GdoLL0C-4" target="I01jJGOwcOtV0GdoLL0C-5">
