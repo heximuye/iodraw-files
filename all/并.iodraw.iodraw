@@ -155,10 +155,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LKb5b7d2Qb8h9Qy3AyAO-30" value="特征拼接" style="curved=0;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.02;entryY=1;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="LKb5b7d2Qb8h9Qy3AyAO-5" target="LKb5b7d2Qb8h9Qy3AyAO-7">
+        <mxCell id="LKb5b7d2Qb8h9Qy3AyAO-30" value="特征拼接" style="curved=0;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LKb5b7d2Qb8h9Qy3AyAO-5" target="LKb5b7d2Qb8h9Qy3AyAO-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="790" y="110" />
               <mxPoint x="880" y="110" />
             </Array>
           </mxGeometry>
