@@ -17,7 +17,7 @@
           <mxGeometry x="480" y="210" width="186" height="66" as="geometry" />
         </mxCell>
         <mxCell id="LKb5b7d2Qb8h9Qy3AyAO-5" value="编码块 4 (双卷积) &#xa; 60x80x512" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1144" y="130" width="186" height="66" as="geometry" />
+          <mxGeometry x="480" y="70" width="186" height="66" as="geometry" />
         </mxCell>
         <mxCell id="LKb5b7d2Qb8h9Qy3AyAO-6" value="瓶颈层 (双卷积) &#xa; 30x40x1024" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1448" y="80" width="173" height="66" as="geometry" />
@@ -52,11 +52,9 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LKb5b7d2Qb8h9Qy3AyAO-15" value="最大池化" style="curved=1;startArrow=none;endArrow=block;exitX=0.82;exitY=-0.01;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="LKb5b7d2Qb8h9Qy3AyAO-4" target="LKb5b7d2Qb8h9Qy3AyAO-5">
+        <mxCell id="LKb5b7d2Qb8h9Qy3AyAO-15" value="最大池化" style="curved=0;startArrow=none;endArrow=block;exitX=0.82;exitY=-0.01;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="LKb5b7d2Qb8h9Qy3AyAO-4" target="LKb5b7d2Qb8h9Qy3AyAO-5">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1085" y="163" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LKb5b7d2Qb8h9Qy3AyAO-16" value="最大池化" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.04;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="LKb5b7d2Qb8h9Qy3AyAO-5" target="LKb5b7d2Qb8h9Qy3AyAO-6">
