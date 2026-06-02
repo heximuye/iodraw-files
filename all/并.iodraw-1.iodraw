@@ -14,7 +14,7 @@
           <mxGeometry x="143" y="250" width="143" height="66" as="geometry" />
         </mxCell>
         <mxCell id="I01jJGOwcOtV0GdoLL0C-4" value="Stage 4 &#xa; 60x80x64" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="151" y="120" width="127" height="66" as="geometry" />
+          <mxGeometry x="151" y="120" width="129" height="66" as="geometry" />
         </mxCell>
         <mxCell id="I01jJGOwcOtV0GdoLL0C-5" value="Stage 6 &#xa; 30x40x176" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="147" y="-10" width="135" height="66" as="geometry" />
