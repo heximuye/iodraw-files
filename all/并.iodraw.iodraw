@@ -126,12 +126,13 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LKb5b7d2Qb8h9Qy3AyAO-27" value="特征拼接" style="curved=0;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=1;exitY=0.76;entryX=0;entryY=0.83;rounded=0;" edge="1" parent="1" source="LKb5b7d2Qb8h9Qy3AyAO-2" target="LKb5b7d2Qb8h9Qy3AyAO-10">
+        <mxCell id="LKb5b7d2Qb8h9Qy3AyAO-27" value="特征拼接" style="curved=0;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;entryX=0;entryY=0.5;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="LKb5b7d2Qb8h9Qy3AyAO-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2656" y="461" />
+              <mxPoint x="800" y="543" />
               <mxPoint x="860" y="560" />
             </Array>
+            <mxPoint x="670" y="543" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LKb5b7d2Qb8h9Qy3AyAO-28" value="特征拼接" style="curved=0;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="LKb5b7d2Qb8h9Qy3AyAO-3" target="LKb5b7d2Qb8h9Qy3AyAO-9">
