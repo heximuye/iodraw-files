@@ -8,16 +8,16 @@
           <mxGeometry x="280" y="517.5" width="103" height="51" as="geometry" />
         </mxCell>
         <mxCell id="LKb5b7d2Qb8h9Qy3AyAO-2" value="编码块 1 (双卷积) &#xa; 480x640x64" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="480" y="510" width="186" height="66" as="geometry" />
+          <mxGeometry x="958" y="636" width="186" height="66" as="geometry" />
         </mxCell>
         <mxCell id="LKb5b7d2Qb8h9Qy3AyAO-3" value="编码块 2 (双卷积) &#xa; 240x320x128" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="536" y="313" width="186" height="66" as="geometry" />
+          <mxGeometry x="940" y="430" width="186" height="66" as="geometry" />
         </mxCell>
         <mxCell id="LKb5b7d2Qb8h9Qy3AyAO-4" value="编码块 3 (双卷积) &#xa; 120x160x256" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="840" y="214" width="186" height="66" as="geometry" />
+          <mxGeometry x="930" y="300" width="186" height="66" as="geometry" />
         </mxCell>
         <mxCell id="LKb5b7d2Qb8h9Qy3AyAO-5" value="编码块 4 (双卷积) &#xa; 60x80x512" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1144" y="130" width="186" height="66" as="geometry" />
+          <mxGeometry x="990" y="184" width="186" height="66" as="geometry" />
         </mxCell>
         <mxCell id="LKb5b7d2Qb8h9Qy3AyAO-6" value="瓶颈层 (双卷积) &#xa; 30x40x1024" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1448" y="80" width="173" height="66" as="geometry" />
