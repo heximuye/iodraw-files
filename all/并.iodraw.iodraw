@@ -20,10 +20,10 @@
           <mxGeometry x="990" y="184" width="186" height="66" as="geometry" />
         </mxCell>
         <mxCell id="LKb5b7d2Qb8h9Qy3AyAO-6" value="瓶颈层 (双卷积) &#xa; 30x40x1024" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1448" y="80" width="173" height="66" as="geometry" />
+          <mxGeometry x="1300" y="110" width="173" height="66" as="geometry" />
         </mxCell>
         <mxCell id="LKb5b7d2Qb8h9Qy3AyAO-7" value="解码块 4 (拼接+双卷积) &#xa; 60x80x512" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1722" y="130" width="226" height="66" as="geometry" />
+          <mxGeometry x="1450" y="184" width="226" height="66" as="geometry" />
         </mxCell>
         <mxCell id="LKb5b7d2Qb8h9Qy3AyAO-8" value="解码块 3 (拼接+双卷积) &#xa; 120x160x256" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1710" y="250" width="226" height="66" as="geometry" />
