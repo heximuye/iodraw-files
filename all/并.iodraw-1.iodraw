@@ -109,12 +109,10 @@
         </mxCell>
         <mxCell id="I01jJGOwcOtV0GdoLL0C-23" value="上采样" style="curved=0;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="I01jJGOwcOtV0GdoLL0C-7" target="I01jJGOwcOtV0GdoLL0C-8">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="680" y="80" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="I01jJGOwcOtV0GdoLL0C-24" value="上采样" style="curved=0;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0.23;entryY=0;rounded=0;" edge="1" parent="1" source="I01jJGOwcOtV0GdoLL0C-8" target="I01jJGOwcOtV0GdoLL0C-9">
+        <mxCell id="I01jJGOwcOtV0GdoLL0C-24" value="上采样" style="curved=0;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.23;entryY=0;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="I01jJGOwcOtV0GdoLL0C-8" target="I01jJGOwcOtV0GdoLL0C-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="730" y="210" />
