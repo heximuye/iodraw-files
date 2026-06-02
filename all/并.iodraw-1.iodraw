@@ -25,13 +25,13 @@
         <mxCell id="I01jJGOwcOtV0GdoLL0C-7" value="解码块 4 + scSE &#xa; 30x40x256" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="447" y="-10" width="170" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="I01jJGOwcOtV0GdoLL0C-8" value="解码块 3 + scSE &#xa; 60x80" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="I01jJGOwcOtV0GdoLL0C-8" value="解码块 3 + scSE &#xa; 60x80x256" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="447" y="120" width="170" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="I01jJGOwcOtV0GdoLL0C-9" value="解码块 2 + scSE &#xa; 120x160" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="I01jJGOwcOtV0GdoLL0C-9" value="解码块 2 + scSE &#xa; 120x160x256" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="447" y="250" width="170" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="I01jJGOwcOtV0GdoLL0C-10" value="解码块 1 + scSE &#xa; 240x320" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="I01jJGOwcOtV0GdoLL0C-10" value="解码块 1 + scSE &#xa; 240x320x256" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="447" y="377.5" width="170" height="66" as="geometry" />
         </mxCell>
         <mxCell id="I01jJGOwcOtV0GdoLL0C-11" value="输出掩码 &#xa; 480x640x11" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=18;" vertex="1" parent="1">
