@@ -121,7 +121,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="I01jJGOwcOtV0GdoLL0C-25" value="上采样" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.18;entryY=0;rounded=0;" edge="1" parent="1" source="I01jJGOwcOtV0GdoLL0C-9" target="I01jJGOwcOtV0GdoLL0C-10">
+        <mxCell id="I01jJGOwcOtV0GdoLL0C-25" value="上采样" style="curved=0;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.18;entryY=0;rounded=0;" edge="1" parent="1" source="I01jJGOwcOtV0GdoLL0C-9" target="I01jJGOwcOtV0GdoLL0C-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2131" y="316" />
@@ -133,7 +133,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="I01jJGOwcOtV0GdoLL0C-27" value="拼接" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=1;exitY=0.75;entryX=0;entryY=0.8;rounded=0;" edge="1" parent="1" source="I01jJGOwcOtV0GdoLL0C-2" target="I01jJGOwcOtV0GdoLL0C-10">
+        <mxCell id="I01jJGOwcOtV0GdoLL0C-27" value="拼接" style="curved=0;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=1;exitY=0.75;entryX=0;entryY=0.8;rounded=0;" edge="1" parent="1" source="I01jJGOwcOtV0GdoLL0C-2" target="I01jJGOwcOtV0GdoLL0C-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="337" y="431" />
