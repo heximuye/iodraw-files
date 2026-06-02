@@ -26,10 +26,10 @@
           <mxGeometry x="913" y="190" width="226" height="66" as="geometry" />
         </mxCell>
         <mxCell id="LKb5b7d2Qb8h9Qy3AyAO-9" value="解码块 2 (拼接+双卷积) &#xa; 240x320x128" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="360" width="226" height="66" as="geometry" />
+          <mxGeometry x="913" y="310" width="226" height="66" as="geometry" />
         </mxCell>
         <mxCell id="LKb5b7d2Qb8h9Qy3AyAO-10" value="解码块 1 (拼接+双卷积) &#xa; 480x640x64" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="510" width="226" height="66" as="geometry" />
+          <mxGeometry x="913" y="426" width="226" height="66" as="geometry" />
         </mxCell>
         <mxCell id="LKb5b7d2Qb8h9Qy3AyAO-11" value="输出分割掩码 &#xa; 480x640x11" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1310" y="517.5" width="124" height="51" as="geometry" />
