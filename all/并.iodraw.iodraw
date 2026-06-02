@@ -57,10 +57,10 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LKb5b7d2Qb8h9Qy3AyAO-16" value="最大池化" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.04;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="LKb5b7d2Qb8h9Qy3AyAO-5" target="LKb5b7d2Qb8h9Qy3AyAO-6">
+        <mxCell id="LKb5b7d2Qb8h9Qy3AyAO-16" value="最大池化" style="curved=0;startArrow=none;endArrow=block;exitX=1;exitY=0.04;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="LKb5b7d2Qb8h9Qy3AyAO-5" target="LKb5b7d2Qb8h9Qy3AyAO-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1389" y="113" />
+              <mxPoint x="666" y="-7" />
             </Array>
           </mxGeometry>
         </mxCell>
