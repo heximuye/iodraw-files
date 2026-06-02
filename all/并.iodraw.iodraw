@@ -13,7 +13,7 @@
         <mxCell id="LKb5b7d2Qb8h9Qy3AyAO-3" value="编码块 2 (双卷积) &#xa; 240x320x128" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="554" y="310" width="186" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="LKb5b7d2Qb8h9Qy3AyAO-4" value="编码块 3 (双卷积) &#xa; 120x160x256" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="LKb5b7d2Qb8h9Qy3AyAO-4" value="编码块 3 (双卷积) &#xa; 120x160x256" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="554" y="190" width="186" height="66" as="geometry" />
         </mxCell>
         <mxCell id="LKb5b7d2Qb8h9Qy3AyAO-6" value="瓶颈层 (双卷积) &#xa; 30x40x1024" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
@@ -157,7 +157,7 @@
             <mxPoint x="1030" y="99.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LKb5b7d2Qb8h9Qy3AyAO-5" value="编码块 4 (双卷积) &#xa; 60x80x512" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="LKb5b7d2Qb8h9Qy3AyAO-5" value="编码块 4 (双卷积) &#xa; 60x80x512" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="554" y="70" width="186" height="66" as="geometry" />
         </mxCell>
       </root>
