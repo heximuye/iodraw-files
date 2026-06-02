@@ -102,7 +102,7 @@
         <mxCell id="LKb5b7d2Qb8h9Qy3AyAO-22" value="上采样" style="curved=0;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LKb5b7d2Qb8h9Qy3AyAO-6" target="LKb5b7d2Qb8h9Qy3AyAO-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1130" />
+              <mxPoint x="1143" y="-7" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -155,7 +155,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LKb5b7d2Qb8h9Qy3AyAO-30" value="特征拼接" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=1;exitY=0.96;entryX=0.02;entryY=1;rounded=0;" edge="1" parent="1" source="LKb5b7d2Qb8h9Qy3AyAO-5" target="LKb5b7d2Qb8h9Qy3AyAO-7">
+        <mxCell id="LKb5b7d2Qb8h9Qy3AyAO-30" value="特征拼接" style="curved=0;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=1;exitY=0.96;entryX=0.02;entryY=1;rounded=0;" edge="1" parent="1" source="LKb5b7d2Qb8h9Qy3AyAO-5" target="LKb5b7d2Qb8h9Qy3AyAO-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1389" y="213" />
