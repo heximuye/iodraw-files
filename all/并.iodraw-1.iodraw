@@ -23,10 +23,10 @@
           <mxGeometry x="340" y="-20" width="165" height="66" as="geometry" />
         </mxCell>
         <mxCell id="I01jJGOwcOtV0GdoLL0C-7" value="解码块 4 + scSE &#xa; 30x40" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1366" y="100" width="170" height="66" as="geometry" />
+          <mxGeometry x="540" y="70" width="170" height="66" as="geometry" />
         </mxCell>
         <mxCell id="I01jJGOwcOtV0GdoLL0C-8" value="解码块 3 + scSE &#xa; 60x80" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1638" y="184" width="170" height="66" as="geometry" />
+          <mxGeometry x="540" y="166" width="170" height="66" as="geometry" />
         </mxCell>
         <mxCell id="I01jJGOwcOtV0GdoLL0C-9" value="解码块 2 + scSE &#xa; 120x160" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1910" y="283" width="170" height="66" as="geometry" />
