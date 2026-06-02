@@ -42,7 +42,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LKb5b7d2Qb8h9Qy3AyAO-13" value="最大池化" style="curved=0;startArrow=none;endArrow=block;exitX=0.81;exitY=-0.01;entryX=0.5;entryY=1;rounded=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="LKb5b7d2Qb8h9Qy3AyAO-2" target="LKb5b7d2Qb8h9Qy3AyAO-3">
+        <mxCell id="LKb5b7d2Qb8h9Qy3AyAO-13" value="最大池化" style="curved=0;startArrow=none;endArrow=block;exitX=0.81;exitY=-0.01;entryX=0.5;entryY=1;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LKb5b7d2Qb8h9Qy3AyAO-2" target="LKb5b7d2Qb8h9Qy3AyAO-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="477" y="346" />
