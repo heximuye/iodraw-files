@@ -145,7 +145,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LKb5b7d2Qb8h9Qy3AyAO-29" value="特征拼接" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=1;exitY=0.96;entryX=0.01;entryY=1;rounded=0;" edge="1" parent="1" source="LKb5b7d2Qb8h9Qy3AyAO-4" target="LKb5b7d2Qb8h9Qy3AyAO-8">
+        <mxCell id="LKb5b7d2Qb8h9Qy3AyAO-29" value="特征拼接" style="curved=0;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=1;exitY=0.96;entryX=0.01;entryY=1;rounded=0;" edge="1" parent="1" source="LKb5b7d2Qb8h9Qy3AyAO-4" target="LKb5b7d2Qb8h9Qy3AyAO-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1085" y="296" />
