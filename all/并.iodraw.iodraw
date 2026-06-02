@@ -23,7 +23,7 @@
           <mxGeometry x="913" y="70" width="226" height="66" as="geometry" />
         </mxCell>
         <mxCell id="LKb5b7d2Qb8h9Qy3AyAO-8" value="解码块 3 (拼接+双卷积) &#xa; 120x160x256" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="210" width="226" height="66" as="geometry" />
+          <mxGeometry x="913" y="190" width="226" height="66" as="geometry" />
         </mxCell>
         <mxCell id="LKb5b7d2Qb8h9Qy3AyAO-9" value="解码块 2 (拼接+双卷积) &#xa; 240x320x128" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1030" y="360" width="226" height="66" as="geometry" />
