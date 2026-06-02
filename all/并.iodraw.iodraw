@@ -16,9 +16,6 @@
         <mxCell id="LKb5b7d2Qb8h9Qy3AyAO-4" value="编码块 3 (双卷积) &#xa; 120x160x256" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="480" y="210" width="186" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="LKb5b7d2Qb8h9Qy3AyAO-5" value="编码块 4 (双卷积) &#xa; 60x80x512" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="480" y="70" width="186" height="66" as="geometry" />
-        </mxCell>
         <mxCell id="LKb5b7d2Qb8h9Qy3AyAO-6" value="瓶颈层 (双卷积) &#xa; 30x40x1024" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="740" y="-40" width="173" height="66" as="geometry" />
         </mxCell>
@@ -60,7 +57,7 @@
         <mxCell id="LKb5b7d2Qb8h9Qy3AyAO-16" value="最大池化" style="curved=0;startArrow=none;endArrow=block;exitX=0.5;exitY=0;entryX=0;entryY=0.5;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="LKb5b7d2Qb8h9Qy3AyAO-5" target="LKb5b7d2Qb8h9Qy3AyAO-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="573" y="-7" />
+              <mxPoint x="647" y="-7" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -148,12 +145,22 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LKb5b7d2Qb8h9Qy3AyAO-30" value="特征拼接" style="curved=0;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="LKb5b7d2Qb8h9Qy3AyAO-30" value="特征拼接" style="curved=0;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LKb5b7d2Qb8h9Qy3AyAO-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="666" y="99.5" as="sourcePoint" />
             <mxPoint x="1030" y="99.5" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="LKb5b7d2Qb8h9Qy3AyAO-34" value="" style="curved=0;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="LKb5b7d2Qb8h9Qy3AyAO-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="666" y="99.5" as="sourcePoint" />
+            <mxPoint x="1030" y="99.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LKb5b7d2Qb8h9Qy3AyAO-5" value="编码块 4 (双卷积) &#xa; 60x80x512" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="554" y="70" width="186" height="66" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
