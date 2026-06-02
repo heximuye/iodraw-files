@@ -13,7 +13,7 @@
         <mxCell id="I01jJGOwcOtV0GdoLL0C-3" value="阶段 3&#xa; 120x160x40" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="147" y="250" width="135" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="I01jJGOwcOtV0GdoLL0C-4" value="阶段 4&#xa; 60x80x128" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="I01jJGOwcOtV0GdoLL0C-4" value="阶段 4&#xa; 60x80x64" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="147" y="120" width="135" height="66" as="geometry" />
         </mxCell>
         <mxCell id="I01jJGOwcOtV0GdoLL0C-5" value="阶段 6&#xa;30x40x176" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=18;" vertex="1" parent="1">
@@ -22,7 +22,7 @@
         <mxCell id="I01jJGOwcOtV0GdoLL0C-6" value=" 瓶颈层 阶段 8 &#xa;15x20x512" style="whiteSpace=wrap;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="282" y="-100" width="165" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="I01jJGOwcOtV0GdoLL0C-7" value="解码块 4 + scSE &#xa; 30x40" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="I01jJGOwcOtV0GdoLL0C-7" value="解码块 4 + scSE &#xa; 30x40x256" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="447" y="-10" width="170" height="66" as="geometry" />
         </mxCell>
         <mxCell id="I01jJGOwcOtV0GdoLL0C-8" value="解码块 3 + scSE &#xa; 60x80" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=18;" vertex="1" parent="1">
