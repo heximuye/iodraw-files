@@ -124,7 +124,7 @@
         <mxCell id="I01jJGOwcOtV0GdoLL0C-25" value="上采样" style="curved=0;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.18;entryY=0;rounded=0;" edge="1" parent="1" source="I01jJGOwcOtV0GdoLL0C-9" target="I01jJGOwcOtV0GdoLL0C-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2131" y="316" />
+              <mxPoint x="640" y="350" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -141,11 +141,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="I01jJGOwcOtV0GdoLL0C-28" value="拼接" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=1;exitY=0.8;entryX=0;entryY=0.82;rounded=0;" edge="1" parent="1" source="I01jJGOwcOtV0GdoLL0C-3" target="I01jJGOwcOtV0GdoLL0C-9">
+        <mxCell id="I01jJGOwcOtV0GdoLL0C-28" value="拼接" style="curved=0;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=1;exitY=0.8;entryX=0;entryY=0.82;rounded=0;" edge="1" parent="1" source="I01jJGOwcOtV0GdoLL0C-3" target="I01jJGOwcOtV0GdoLL0C-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="582" y="350" />
-              <mxPoint x="1859" y="350" />
+              <mxPoint x="360" y="283" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -153,7 +153,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="811" y="266" />
-              <mxPoint x="1587" y="266" />
             </Array>
           </mxGeometry>
         </mxCell>
