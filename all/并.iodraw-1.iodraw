@@ -10,7 +10,7 @@
         <mxCell id="I01jJGOwcOtV0GdoLL0C-2" value="解码块1&#xa;480x640x48" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="147" y="377.5" width="135" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="I01jJGOwcOtV0GdoLL0C-3" value="Stage 3 &#xa; 120x160x64" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="I01jJGOwcOtV0GdoLL0C-3" value="480x640&#xa; 120x160x64" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="147" y="250" width="135" height="66" as="geometry" />
         </mxCell>
         <mxCell id="I01jJGOwcOtV0GdoLL0C-4" value="Stage 4 &#xa; 60x80x128" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=18;" vertex="1" parent="1">
