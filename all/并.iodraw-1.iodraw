@@ -8,7 +8,7 @@
           <mxGeometry x="-10" y="385" width="103" height="51" as="geometry" />
         </mxCell>
         <mxCell id="I01jJGOwcOtV0GdoLL0C-2" value="Stem 块 &#xa; 240x320x48" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="143" y="377.5" width="143" height="66" as="geometry" />
+          <mxGeometry x="143" y="377.5" width="135" height="66" as="geometry" />
         </mxCell>
         <mxCell id="I01jJGOwcOtV0GdoLL0C-3" value="Stage 3 &#xa; 120x160x40" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="143" y="250" width="135" height="66" as="geometry" />
