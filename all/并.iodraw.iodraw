@@ -14,7 +14,7 @@
           <mxGeometry x="536" y="313" width="186" height="66" as="geometry" />
         </mxCell>
         <mxCell id="LKb5b7d2Qb8h9Qy3AyAO-4" value="编码块 3 (双卷积) &#xa; 120x160x256" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="840" y="214" width="186" height="66" as="geometry" />
+          <mxGeometry x="590" y="130" width="186" height="66" as="geometry" />
         </mxCell>
         <mxCell id="LKb5b7d2Qb8h9Qy3AyAO-5" value="编码块 4 (双卷积) &#xa; 60x80x512" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1144" y="130" width="186" height="66" as="geometry" />
