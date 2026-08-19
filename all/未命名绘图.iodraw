@@ -57,13 +57,13 @@
         <mxCell id="g6NwzMbFQ5KyXIAT8m_d-75" value="最终可视化&#xa;彩色车道线预测图" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1695" y="625" width="143" height="143" as="geometry" />
         </mxCell>
-        <mxCell id="g6NwzMbFQ5KyXIAT8m_d-76" value="Softmax&#xa;预测概率" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="g6NwzMbFQ5KyXIAT8m_d-76" value="Softmax&#xa;预测概率" style="whiteSpace=wrap;strokeWidth=2;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="910" y="570" width="124" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="g6NwzMbFQ5KyXIAT8m_d-77" value="Softmax&#xa;预测概率" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="g6NwzMbFQ5KyXIAT8m_d-77" value="Softmax&#xa;预测概率" style="whiteSpace=wrap;strokeWidth=2;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="910" y="756" width="124" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="g6NwzMbFQ5KyXIAT8m_d-78" value="异质加权平均&#xa;B5: 0.65&#xa;Res34: 0.35" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="g6NwzMbFQ5KyXIAT8m_d-78" value="异质加权平均&#xa;B5: 0.65&#xa;Res34: 0.35" style="whiteSpace=wrap;strokeWidth=2;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1084" y="654" width="156" height="84" as="geometry" />
         </mxCell>
         <mxCell id="g6NwzMbFQ5KyXIAT8m_d-79" value="像素级分类&#xa;Argmax" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
