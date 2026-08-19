@@ -78,11 +78,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="g6NwzMbFQ5KyXIAT8m_d-20" value="跳跃连接 (Skip Connections)" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.81;exitY=1;entryX=0.88;entryY=-0.01;rounded=0;" edge="1" parent="1" source="g6NwzMbFQ5KyXIAT8m_d-4" target="g6NwzMbFQ5KyXIAT8m_d-6">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="0.0491" y="76" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="374" y="607" />
               <mxPoint x="374" y="741" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="g6NwzMbFQ5KyXIAT8m_d-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.24;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="g6NwzMbFQ5KyXIAT8m_d-7" target="g6NwzMbFQ5KyXIAT8m_d-8">
