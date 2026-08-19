@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="b1_CsWKgU9JLE8BwkI1U">
-    <mxGraphModel dx="1720" dy="957" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1214" dy="675" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -29,7 +29,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="g6NwzMbFQ5KyXIAT8m_d-68" value="强语义提取 Unet EfficientNet-B5" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="g6NwzMbFQ5KyXIAT8m_d-68" value="强语义提取 Unet+EfficientNet-B5" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="206" y="535" width="572" height="136" as="geometry" />
         </mxCell>
         <mxCell id="g6NwzMbFQ5KyXIAT8m_d-69" value="编码器&#xa;Encoder" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="g6NwzMbFQ5KyXIAT8m_d-68">
