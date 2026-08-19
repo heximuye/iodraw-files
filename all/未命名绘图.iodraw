@@ -1,52 +1,9 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="b1_CsWKgU9JLE8BwkI1U">
-    <mxGraphModel dx="1032" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2064" dy="1148" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="HCf1npPrL8LtfrmUHU6m-14" value="Soft-Voting 加权融合&#xa;P_ensemble = P1*W1 + P2*W2&#xa;例如: B5*0.6 + Res34*0.4" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="144" y="931" width="285" height="285" as="geometry" />
-        </mxCell>
-        <mxCell id="HCf1npPrL8LtfrmUHU6m-15" value="Argmax 像素级分类&#xa;获取概率最大的类别ID" style="rounded=1;arcSize=20;strokeWidth=2" parent="1" vertex="1">
-          <mxGeometry x="192" y="1266" width="188" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="HCf1npPrL8LtfrmUHU6m-16" value="Mask: 480 x 640 值: 0~10" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="185" y="1382" width="203" height="33" as="geometry" />
-        </mxCell>
-        <mxCell id="HCf1npPrL8LtfrmUHU6m-17" value="COLOR_MAP 颜色映射&#xa;将类别ID转换为对应RGB色彩" style="rounded=1;arcSize=20;strokeWidth=2" parent="1" vertex="1">
-          <mxGeometry x="178" y="1465" width="217" height="84" as="geometry" />
-        </mxCell>
-        <mxCell id="HCf1npPrL8LtfrmUHU6m-18" value="图像混合 Image Blending" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="190" y="1599" width="193" height="193" as="geometry" />
-        </mxCell>
-        <mxCell id="HCf1npPrL8LtfrmUHU6m-19" value="最终高精度可视化预测图" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="187" y="1842" width="199" height="33" as="geometry" />
-        </mxCell>
-        <mxCell id="HCf1npPrL8LtfrmUHU6m-34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" source="HCf1npPrL8LtfrmUHU6m-14" target="HCf1npPrL8LtfrmUHU6m-15" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HCf1npPrL8LtfrmUHU6m-35" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" source="HCf1npPrL8LtfrmUHU6m-15" target="HCf1npPrL8LtfrmUHU6m-16" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HCf1npPrL8LtfrmUHU6m-36" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" parent="1" source="HCf1npPrL8LtfrmUHU6m-16" target="HCf1npPrL8LtfrmUHU6m-17" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HCf1npPrL8LtfrmUHU6m-37" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" source="HCf1npPrL8LtfrmUHU6m-17" target="HCf1npPrL8LtfrmUHU6m-18" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HCf1npPrL8LtfrmUHU6m-38" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" source="HCf1npPrL8LtfrmUHU6m-18" target="HCf1npPrL8LtfrmUHU6m-19" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
