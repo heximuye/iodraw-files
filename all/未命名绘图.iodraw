@@ -66,10 +66,10 @@
         <mxCell id="g6NwzMbFQ5KyXIAT8m_d-78" value="异质加权平均&#xa;B5: 0.65&#xa;Res34: 0.35" style="whiteSpace=wrap;strokeWidth=2;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1084" y="654" width="156" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="g6NwzMbFQ5KyXIAT8m_d-79" value="像素级分类&#xa;Argmax" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="g6NwzMbFQ5KyXIAT8m_d-79" value="像素级分类&#xa;Argmax" style="whiteSpace=wrap;strokeWidth=2;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1290" y="663" width="140" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="g6NwzMbFQ5KyXIAT8m_d-80" value="色彩映射与&#xa;图像叠加" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="g6NwzMbFQ5KyXIAT8m_d-80" value="色彩映射与&#xa;图像叠加" style="whiteSpace=wrap;strokeWidth=2;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1480" y="663" width="140" height="66" as="geometry" />
         </mxCell>
         <mxCell id="g6NwzMbFQ5KyXIAT8m_d-81" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.21;entryY=0;rounded=0;" edge="1" parent="1" source="g6NwzMbFQ5KyXIAT8m_d-76" target="g6NwzMbFQ5KyXIAT8m_d-78">
