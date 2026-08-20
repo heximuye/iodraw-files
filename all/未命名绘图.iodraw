@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="g6NwzMbFQ5KyXIAT8m_d-61" value="异构集成推理路径" style="whiteSpace=wrap;strokeWidth=2;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="181" y="500" width="1464" height="392" as="geometry" />
+          <mxGeometry x="181" y="500" width="1479" height="392" as="geometry" />
         </mxCell>
         <mxCell id="g6NwzMbFQ5KyXIAT8m_d-62" value="强边缘提取 Unet+ResNet34" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="206" y="721" width="572" height="136" as="geometry" />
